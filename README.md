@@ -387,6 +387,50 @@
 
 & \carta{La metropolitana di notte} 
 
+& \carta{Lenti a contatto a raggi X}
+
+& \carta{Un ninja con una diarrea incontrollabile}
+
+\\\hline
+\carta{Necromanzia}
+
+& \carta{Mettere un dito nel culo di Pikachu e prendere la scossa}
+
+& \carta{Un gruppo di puffi arrapati}
+
+& \carta{Morgan Freeman}
+
+\\\hline
+
+\carta{Scoreggiare mentre si è a letto e annusarne la puzza sotto le coperte}
+
+& \carta{Ridere a crepapelle per nascondere una sonors puzza}
+
+& \carta{L'ennesima canzone neomelodica napoletana}
+
+& \carta{Palpatina furtiva}
+
+\\\hline
+
+\carta{Cocaina tagliata male}
+
+\carta{Immigrati clandestini}
+
+\carta{Adolescenti arrapati}
+
+\carta{PornoStar con desiderisessuali per il proprio padre}
+
+\\\hline
+
+\carta{AgentiFBI che si comportano come checche isteriche}
+
+\carta{Cristiano Malgioglio}
+
+\carta{Una sessione di allenamento privata con Rocco Siffredi}
+
+\carta{La collezione di presepi di tua madre}
+
+
 
 
 \end{longtable}
