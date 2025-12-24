@@ -430,6 +430,217 @@
 
 \carta{La collezione di presepi di tua madre}
 
+\\\hline
+\carta{Fare finta di essere morti per vedere chi viene al funerale}
+
+&\carta{L'incredibile varietà di giochi sessuali che praticano i Mormoni}
+
+&\carta{Uomini che vagano spaesati nella corsia degli assorbenti}
+
+&\carta{Sam che viene sculacciato da Frodo per essere stato un "bambino cattivo"}
+
+\\\hline
+\carta{Vlad l'impalatore, inventore degli arrosticini}
+
+&\carta{WIKED: la storia di due lesbiche mancate}
+
+&\carta{Bisessuali indecisi}
+
+&\carta{Pinguini omosessuali}
+
+\\\hline
+\carta{Nativi Americani}
+
+&\carta{IL negozietto del Pakistano vicino a casa}
+
+&\carta{La principessa sul pisello}
+
+&\carta{Il culo sodo di Roberto Bolle}
+
+\\\hline
+\carta{I campioni d'urina che il nonno tiene nel frigo}
+
+&\carta{Bungee jumping senza filo}
+
+&\carta{Usare lo sperma di una renna al posto della glassa per costruire la casetta di marzapane}
+
+&\carta{Pingu che ammazza tutta la sua famiglia e poi incolpa la foca}
+
+\\\hline
+\carta{Spider-man che fa un'orgia con altri se stesso di universi paralleli}
+
+&\carta{Iron-man}
+
+&\carta{Un muscoloso marinaio con la sifilide}
+
+&\carta{Riccioli d'oro che viene sbranata dagli orsi}
+
+\\\hline
+\carta{Alieni gay che girano un filmino porno sulla Terra}
+
+&\carta{Un bambino in overdose da zuccheri}
+
+&\carta{Indossare un cappello con scritto "MAGA"}
+
+&\carta{Aver votato per Trump non una ma due volte}
+
+\\\hline
+\carta{Una gentile carezza nell'interno coscia}
+
+&\carta{Un pappone in tuta di flanella}
+
+&\carta{Un gruppo di adoratori del Diavolo che si riunisce per il pranzo della domenica}
+
+&\carta{La carbonara con la panna}
+
+\\\hline
+\carta{La pizza con ananas e fragole}
+
+&\carta{Un tassista Newyorkese}
+
+&\carta{Una candela fatta con grasso umano}
+
+&\carta{Un oligarca russo che canta Taylor Swift al compleanno della figlia}
+
+\\\hline
+\carta{Un pompiere ricoperto solo di schiuma antincendio}
+
+&\carta{Alfonso Signorini quando vede un giovane ragazzo etero ai casting del Grande Fratello}
+
+&\carta{Dare alla luce l'Anticristo}
+
+&\carta{Taralli a forma di piccoli cazzi}
+
+\\\hline
+\carta{Il gemello malvagio di Beautiful}
+
+&\carta{Geloni talmente forti da arrivare allo scroto}
+
+&\carta{Un uomo con la febbre a 37°c}
+
+&\carta{Un mimo che ha un infarto}
+
+\\\hline
+\carta{Eroina tagliata con lo zucchero a velo}
+
+&\carta{Kinder Tettallatte}
+
+&\carta{Un gruppo scout sbranato da un orso}
+
+&\carta{Attaccare la presa delle lucine di natale dopo averle ingoiate}
+
+\\\hline
+\carta{Ingaggiare un investigatore privato per scoprire dov'è finito il telecomando della tv}
+
+&\carta{Una farfalla morente}
+
+&\carta{Spostare la riunione degli alcolisti anonimi in un Pub}
+
+&\carta{Un piccolo maranza con con i pantaloni infondo al culo}
+
+\\\hline
+
+\carta{Orietta Berti}
+
+&\carta{Oda Nobunaga}
+
+&\carta{La principessa Leila}
+
+&\carta{Le Crociate}
+
+\\\hline
+\carta{Vendere la tua anima al diavolo per un panino con la porchetta e una bella scopata}
+
+&\carta{Protesi per eunuchi}
+
+&\carta{Un maialino da competizione}
+
+&\carta{La stella cometa che si schianta sulla capanna della natività e uccide tutti}
+
+\\\hline 
+\carta{Luke, io sono tua madre!!}
+
+&\carta{Immergere il pene un bicchiere di acqua super frizzante}
+
+&\carta{Mangiarsi troppo le pellicine e causare un'emorraggia letale}
+
+&\carta{Torsione di un testicolo}
+
+\\\hline
+\carta{Finanziare il ponte sullo stretto}
+
+&\carta{tre dita in culo}
+
+&\carta{Rubare i soldi a medici senza frontiere}
+
+&\carta{La foresta dei cazzi volanti}
+
+\\\hline
+\carta{I Rom}
+
+&\carta{Una sauna gay}
+
+&\carta{La pancetta}
+
+&\carta{Hiroshima}
+
+\\\hline
+\carta{Un pakistano con un bouquet di rose}
+
+&\carta{L'amante}
+
+&\carta{Il pizzo}
+
+&\carta{I terroni}
+
+\\\hline
+\carta{Un abbonamento a Famiglia Cristiana}
+
+&\carta{I processi di Norimberga}
+
+&\carta{Mortadella, salame e prosciutto}
+
+&\carta{Fare le treccine alla barba}
+
+\\\hline
+\carta{San Pancrazio fammi spazio}
+
+&\carta{Realizzare di essere vecchi perché quando passi vicino al prete non ti fa più l'occhiolino}
+
+&\carta{Piselli invece che coltelli}
+
+&\carta{Scrivere in brile "Scemo chi tocca"}
+
+\\\hline
+\carta{Mettersi una mano sul cuore e con l'altra abbassare la zip dei pantaloni}
+
+&\carta{La Global Sumud Flotilla}
+
+&\carta{Il Molise}
+
+&\carta{Una banda di Bikers senza pantaloni}
+
+\\\hline
+\carta{Bangkok}
+
+&\carta{Disneyland}
+
+&\carta{L'armocromia}
+
+&\carta{Pechino Express}
+
+
+\end{longtable}
+\end{document}
+
+
+
+
+
+
+
+
+
 
 
 
